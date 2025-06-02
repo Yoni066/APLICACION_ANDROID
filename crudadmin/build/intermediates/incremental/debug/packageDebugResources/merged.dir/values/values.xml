@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="lavender">#8692f7</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CRUDADMIN</string>
+    <string name="gcm_defaultSenderId" translatable="false">1052033601488</string>
+    <string name="google_api_key" translatable="false">AIzaSyBz6bP_s4Kf5UbsRqkw7f_JeycyTv33HeU</string>
+    <string name="google_app_id" translatable="false">1:1052033601488:android:277aa55d8e9d03a15bf3d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBz6bP_s4Kf5UbsRqkw7f_JeycyTv33HeU</string>
+    <string name="google_storage_bucket" translatable="false">app34-ce7b5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">app34-ce7b5</string>
+    <style name="Base.Theme.APLICACION_ANDROID" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/lavender</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.APLICACION_ANDROID" parent="Base.Theme.APLICACION_ANDROID"/>
+</resources>

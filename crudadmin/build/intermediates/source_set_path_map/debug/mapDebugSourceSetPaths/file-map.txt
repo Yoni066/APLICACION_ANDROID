@@ -1,0 +1,38 @@
+com.example.crudadmin-pngs-0 C:\Nueva carpeta\crudadmin\build\generated\res\pngs\debug
+com.example.crudadmin-res-1 C:\Nueva carpeta\crudadmin\build\generated\res\processDebugGoogleServices
+com.example.crudadmin-resValues-2 C:\Nueva carpeta\crudadmin\build\generated\res\resValues\debug
+com.example.crudadmin-packageDebugResources-3 C:\Nueva carpeta\crudadmin\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.crudadmin-packageDebugResources-4 C:\Nueva carpeta\crudadmin\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.crudadmin-debug-5 C:\Nueva carpeta\crudadmin\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.crudadmin-debug-6 C:\Nueva carpeta\crudadmin\src\debug\res
+com.example.crudadmin-main-7 C:\Nueva carpeta\crudadmin\src\main\res
+com.example.crudadmin-profileinstaller-1.3.0-8 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\12ad8035cc2c41df065a433d7f62b6be\transformed\profileinstaller-1.3.0\res
+com.example.crudadmin-emoji2-1.2.0-9 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\13d5ea6d2c30d84d83b4be87be97a53d\transformed\emoji2-1.2.0\res
+com.example.crudadmin-play-services-basement-18.3.0-10 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\1a23d7b925767ba3c37c8eb7aefecac5\transformed\play-services-basement-18.3.0\res
+com.example.crudadmin-activity-1.8.0-11 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\1da43c36e01a2f10a72221fd34731397\transformed\activity-1.8.0\res
+com.example.crudadmin-viewpager2-1.0.0-12 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\1dbc31937c1056a62a6514d554a4df32\transformed\viewpager2-1.0.0\res
+com.example.crudadmin-drawerlayout-1.1.1-13 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\200ebf24e8c25b2fd094b68d7440382d\transformed\drawerlayout-1.1.1\res
+com.example.crudadmin-constraintlayout-2.1.4-14 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\215f9f61cce704d51cba826096ff88c6\transformed\constraintlayout-2.1.4\res
+com.example.crudadmin-recyclerview-1.1.0-15 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\24bbb2c1e03e999a6546e2b274fbb702\transformed\recyclerview-1.1.0\res
+com.example.crudadmin-lifecycle-runtime-2.6.1-16 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\25f1815b4566663ad6207e0c9a0b97a4\transformed\lifecycle-runtime-2.6.1\res
+com.example.crudadmin-core-ktx-1.10.1-17 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\27b992a1ff141a79e11929e4be484e22\transformed\core-ktx-1.10.1\res
+com.example.crudadmin-emoji2-views-helper-1.2.0-18 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\586d0079fb33629aeabad97e619f77a5\transformed\emoji2-views-helper-1.2.0\res
+com.example.crudadmin-play-services-base-18.1.0-19 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\5c1cdcc9a8e8d3ac5c0fa74bf02f95ea\transformed\play-services-base-18.1.0\res
+com.example.crudadmin-material-1.10.0-20 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\630b2e3a7f0a9b776b1a6c1dd13452b3\transformed\material-1.10.0\res
+com.example.crudadmin-firebase-common-21.0.0-21 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\667b9bdbea8ffc6063bb9b51e156dbd4\transformed\firebase-common-21.0.0\res
+com.example.crudadmin-fragment-1.3.6-22 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\791bf7b0803024dd8824f59b981d5a61\transformed\fragment-1.3.6\res
+com.example.crudadmin-lifecycle-viewmodel-2.6.1-23 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\8668cfa4908425f7f30b03bb62b06659\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.crudadmin-appcompat-1.6.1-24 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\8beb250c49d8ac57c8ad5f6cc7c255c4\transformed\appcompat-1.6.1\res
+com.example.crudadmin-lifecycle-process-2.6.1-25 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\8d08f88c6af2868569f7e7b319f54848\transformed\lifecycle-process-2.6.1\res
+com.example.crudadmin-lifecycle-livedata-2.6.1-26 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\a9c102b2c583529c0724d2405c602052\transformed\lifecycle-livedata-2.6.1\res
+com.example.crudadmin-transition-1.2.0-27 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\aaa8f279bb91d354b256ef05f085d6f3\transformed\transition-1.2.0\res
+com.example.crudadmin-core-runtime-2.2.0-28 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\b493a336912b0499f4eac3db490b1b75\transformed\core-runtime-2.2.0\res
+com.example.crudadmin-lifecycle-livedata-core-2.6.1-29 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\b6df84a055b16f0d9b1c703428b1efb7\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.crudadmin-lifecycle-viewmodel-savedstate-2.6.1-30 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\be918cf763ff66f76cc8b14554935958\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.crudadmin-savedstate-1.2.1-31 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\c211ed62c8093725863a439d2cfabfde\transformed\savedstate-1.2.1\res
+com.example.crudadmin-cardview-1.0.0-32 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\c92c1d40e86be634ccb41d06022304c5\transformed\cardview-1.0.0\res
+com.example.crudadmin-startup-runtime-1.1.1-33 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\cc61f649e2621441b7dc73122c9a8c99\transformed\startup-runtime-1.1.1\res
+com.example.crudadmin-annotation-experimental-1.3.0-34 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\e39e8154979f3c13ca8e9b3158014cf2\transformed\annotation-experimental-1.3.0\res
+com.example.crudadmin-coordinatorlayout-1.1.0-35 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\e867cb01bcef484d8fd9df30b1ab774f\transformed\coordinatorlayout-1.1.0\res
+com.example.crudadmin-core-1.10.1-36 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\f17d53823f5fe73da50c9b6975d3a2bf\transformed\core-1.10.1\res
+com.example.crudadmin-appcompat-resources-1.6.1-37 C:\Users\Marcos\.gradle\caches\8.11.1\transforms\f597444a2f12dd91243a7edb6c122870\transformed\appcompat-resources-1.6.1\res
